@@ -14,7 +14,7 @@ Sybil saldırılarını önlemek için sizden birkaç başka doğrulama istenece
 Çoğu görev yalnızca bir kez tamamlanabilir. Kararınızı kullanın (örneğin, iki kez yetki verdiğiniz için sizi ödüllendirmeyiz)
 
 #Görev Nasıl Gönderilir
-Lütfen bu BAŞVURU FORMUNU kullanarak bir görevi tamamladığınıza dair kanıt gönderin.
+Lütfen bu BAŞVURU FORMUNU(https://forms.gle/urhJDEkqfMM9h1367) kullanarak bir görevi tamamladığınıza dair kanıt gönderin.
 
 Görevi tamamladığınızın kanıtını neyin oluşturduğunu belirlemek için en iyi kararınızı kullanın (işlemlere/hesaplara ve yazılara bağlantılar en iyisidir; ekran görüntüleri kabul edilebilir ancak ideal değildir, diğer kanıt biçimlerinin size ödül kazandırması olası değildir).
 
